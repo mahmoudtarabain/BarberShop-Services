@@ -19,7 +19,7 @@ function Contact() {
       `*Service:* ${formData.service}%0A` +
       `*Preferred Date:* ${formData.date}%0A` +
       `*Notes:* ${formData.message || 'None'}%0A%0A` +
-      `Sent from Sharp Cuts website`
+      `Sent from BarberShop-Services website`
 
     // Open WhatsApp
     const whatsappURL = `https://wa.me/${YOUR_WHATSAPP_NUMBER}?text=${whatsappMessage}`
