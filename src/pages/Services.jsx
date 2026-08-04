@@ -1,3 +1,4 @@
+// Services page with pricing and WhatsApp booking
 function Services() {
   const YOUR_WHATSAPP_NUMBER = '+96171092019' //  actual WhatsApp number; 
   const services = [
