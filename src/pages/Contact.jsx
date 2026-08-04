@@ -1,3 +1,4 @@
+// Contact page with WhatsApp booking form
 import { useState } from 'react'
 
 function Contact() {
