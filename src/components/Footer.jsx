@@ -1,3 +1,4 @@
+// Footer with business info
 function Footer() {
   return (
     <footer className="bg-gray-900 text-gray-400 py-8">
