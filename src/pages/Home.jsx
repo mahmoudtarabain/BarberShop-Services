@@ -1,3 +1,4 @@
+// Home page with hero section
 import { Link } from 'react-router-dom'
 
 function Home() {
