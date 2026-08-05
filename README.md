@@ -24,7 +24,7 @@ npm run dev
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
 ### Services Page
 ![Services](screenshots/services.png)
