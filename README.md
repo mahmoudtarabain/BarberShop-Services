@@ -20,3 +20,20 @@ A barber shop website built with React and  tailwind css.
 npm install
 npm run dev
 
+##Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Services Page
+![Services](screenshots/services.png)
+
+### Services Page
+![Services](screenshots/services.png)
+
+
+### Contact Page
+![Contact](screenshots/contact.png)
+
+### Mobile Responsive View
+![Mobile](screenshots/mobile.png)
