@@ -37,3 +37,6 @@ npm run dev
 
 ### Mobile Responsive View
 ![Mobile](screenshots/mobile.png)
+
+### Github view website
+![Github](screenshots/github.png)
