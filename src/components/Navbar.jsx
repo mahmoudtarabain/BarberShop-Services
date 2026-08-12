@@ -14,6 +14,11 @@ function Navbar() {
   ]
 
   return (
+    <div 
+        className="absolute inset-0 opacity-10 bg-[url('/logo.png')] bg-no-repeat bg-center bg-contain pointer-events-none"
+        aria-hidden="true"
+      /> 
+
     <nav className="bg-gray-900 text-white shadow-md sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
