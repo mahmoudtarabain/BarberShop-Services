@@ -5,19 +5,8 @@ function Home() {
   return (
     <div>
       {/* Hero Section */}
-            <section className="relative text-white py-20 px-4 text-center">
-        {/* Logo as background */}
-        <div
-          className="absolute inset-0 bg-contain bg-center bg-no-repeat"
-          style={{ backgroundImage: 'url(/logo.png)' }}
-        />
-        {/* Dark overlay so text is readable */}
-        <div className="absolute inset-0 bg-black/60" />
-                {/* Background logo */}
-        <div
-          className="absolute inset-0 opacity-20 bg-cover bg-center bg-no-repeat pointer-events-none"
-          style={{ backgroundImage: 'url(/logo.png)' }}/>
-        <div className="relative z-10 max-w-4xl mx-auto">
+      <section className="relative bg-gray-900 text-white py-20 px-4 text-center">
+        <div className="max-w-4xl mx-auto">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
             BarberShop-Services
           </h1>
