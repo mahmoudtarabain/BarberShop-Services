@@ -8,7 +8,7 @@ function Home() {
       <section className="relative bg-gray-900 text-white py-20 px-4 text-center">
                 {/* Background logo */}
         <div
-          className="absolute inset-0 opacity-10 bg-contain bg-center bg-no-repeat pointer-events-none"
+          className="absolute inset-0 opacity-20 bg-cover bg-center bg-no-repeat pointer-events-none"
           style={{ backgroundImage: 'url(/logo.png)' }}/>
         <div className="relative z-10 max-w-4xl mx-auto">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
