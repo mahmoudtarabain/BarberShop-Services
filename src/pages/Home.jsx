@@ -5,7 +5,7 @@ function Home() {
   return (
     <div>
       {/* Hero Section */}
-      <section className="relative bg-pink-900 text-white py-20 px-4 text-center">
+      <section className="relative bg-pink-700 text-white py-20 px-4 text-center">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
             BarberShop-Services
