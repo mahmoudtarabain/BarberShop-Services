@@ -19,7 +19,7 @@ function Navbar() {
         <div className="flex justify-between h-16 items-center">
           <Link to="/" className="text-2xl font-bold tracking-tight flex items-center gap-2">
              <img src="/logo.png" alt="Barber Shop Logo" className="h-10 w-auto" />
-                  BarberShop-Services
+                  BarberShop-Services---
           </Link>
 
           <div className="hidden md:flex space-x-8">
