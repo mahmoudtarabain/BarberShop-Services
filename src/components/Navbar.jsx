@@ -14,8 +14,12 @@ function Navbar() {
   ]
 
   return (
-    <nav className="bg-gray-900 text-white shadow-md sticky top-0 z-50">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <nav className="relative bg-gray-900 text-white shadow-md sticky top-0 z-50">
+       <div
+    className="absolute inset-0 opacity-10 bg-contain bg-center bg-no-repeat pointer-events-none"
+    style={{ backgroundImage: 'url(/logo.png)' }}
+  />
+      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           <Link to="/" className="text-2xl font-bold tracking-tight flex items-center gap-2">
              <img src="/logo.png" alt="Barber Shop Logo" className="h-10 w-auto" />
