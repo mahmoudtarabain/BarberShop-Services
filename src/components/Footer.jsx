@@ -11,13 +11,9 @@ function Footer() {
           <div>
             <h3 className="text-white text-lg font-bold mb-2">Hours</h3>
             <ul className="space-y-1 text-sm">
-              <li>Mon: Closed</li>
-              <li>Tues: 9:00 AM - 8:00 PM</li>
-              <li>Wed: 9:00 AM - 8:00 PM</li>
-              <li>Thu: 9:00 AM - 8:00 PM</li>
-              <li>Fri: 9:00 AM - 8:00 PM</li>
-              <li>Saturday: 10:00 AM - 6:00 PM</li>
+              <li>Tuesday - Saturday: 9:00 AM - 7:00 PM</li>
               <li>Sunday: 10:00 AM - 6:00 PM</li>
+              <li>Mon: Closed</li>
             </ul>
           </div>
           <div>
