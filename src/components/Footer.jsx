@@ -13,7 +13,7 @@ function Footer() {
             <ul className="space-y-1 text-sm">
               <li>Tuesday - Saturday: 9:00 AM - 7:00 PM</li>
               <li>Sunday: 10:00 AM - 6:00 PM</li>
-              <li>Mon: Closed</li>
+              <li>Monday: Closed</li>
             </ul>
           </div>
           <div>
