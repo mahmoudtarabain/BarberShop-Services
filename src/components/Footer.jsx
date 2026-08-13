@@ -22,7 +22,7 @@ function Footer() {
           </div>
           <div>
             <h3 className="text-white text-lg font-bold mb-2">Contact</h3>
-            <p className="text-sm">Phone: (+961) 123-45678</p>
+            <p className="text-sm">Phone: (+961) 71/092019</p>
             <p className="text-sm">Email: info@BarberShop-Services.com</p>
           </div>
         </div>
